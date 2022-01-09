@@ -1,4 +1,4 @@
-# `CurveFi 3Pool Vault Integration`
+# `CurveFi 3Pool Integration Vault`
 ![CurveVault](https://user-images.githubusercontent.com/17001801/148681816-05ee3dd2-557b-4e87-a479-18114ee0a38a.jpeg)
 
 This is an implementation of a single-asset DAI vault that earns profit through depositing funds into the Curve 3pool.
